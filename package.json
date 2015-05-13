@@ -1,0 +1,16 @@
+{
+  "name": "sike-nodejs-express",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+  "mocha": "^1.18.2",
+  "chai": "^1.9.1",
+  "supertest": "^0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lzk800",
+  "license": "MIT"
+}
