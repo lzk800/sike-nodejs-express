@@ -1,7 +1,7 @@
 var http = require("http");
 var express = require("../");
 var request = require("supertest");
-var expect = require("chai").expect
+var expect = require("chai").expect;
 
 describe("app",function() {
 	var app = express();
